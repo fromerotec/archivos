@@ -19,15 +19,3 @@ sudo -H pip3 install pytest
     ```
     pytest assignments/02ArchivoCalculaPromedio
     ```
-
-- ## 03 Reporte Archivo
-    ### Run command
-    ```
-    pytest assignments/03ReporteArchivo
-    ```
-
-- ## 04 Escribe Archivo
-    ### Run command
-    ```
-    pytest assignments/04EscribeArchivo
-    ```

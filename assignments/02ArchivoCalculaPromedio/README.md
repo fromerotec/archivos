@@ -15,9 +15,9 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Agrega en programa que pueda leer líneas de texto de un archivo de entrada llamado "Data.txt" que contiene un número entero en cada renglón.
+Crea un programa que pueda leer líneas de texto de un archivo de entrada llamado "Data.txt" que contiene un número entero en cada renglón.
 
-El programa debe calcular el promedio de los números y dejarlo en un archivo nuevo llamado "Resultados.txt"
+El programa debe calcular el promedio de los números y dejarlo en un archivo nuevo llamado "Resultados.txt".
 
 Entrada:
 Este programa toma la entrada del archivo Data.txt
